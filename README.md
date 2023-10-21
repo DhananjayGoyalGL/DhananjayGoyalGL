@@ -1,5 +1,4 @@
-![FrontEndDeveloperBeauCarnesGIF](https://github.com/DhananjayGoyalGL/DhananjayGoyalGL/assets/113744303/29a252f7-b5ac-40e2-81da-c53e1214483e)
-![CodeCodingGIF](https://github.com/DhananjayGoyalGL/DhananjayGoyalGL/assets/113744303/2955c814-1c50-41ba-bfd8-f0bc9f793755)
+![BabyKodingBabyGIF](https://github.com/DhananjayGoyalGL/DhananjayGoyalGL/assets/113744303/9a483217-0381-4630-aaaa-0ba99c611434)
 
 
 
@@ -13,7 +12,7 @@
       
 ## Let's Connect
 | ![发送GIF](https://github.com/DhananjayGoyalGL/DhananjayGoyalGL/assets/113744303/ccc7727d-cbd2-48e0-9dda-e0ee010ed428) | ![LinkedinGIF (2)](https://github.com/DhananjayGoyalGL/DhananjayGoyalGL/assets/113744303/b1347d95-e093-4671-95be-b2922d5006af) | 
-| :-- | --: |
-| [Gmail](1406dhananjay@gmail.com) 📩 | [LinkedIn](https://www.linkedin.com/in/dhananjaygoyal/) |
+| :--: | :--: |
+| [Gmail](1406dhananjay@gmail.com) 📩 | [LinkedIn](https://www.linkedin.com/in/dhananjaygoyal/) 💫 |
 
 
