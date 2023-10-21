@@ -1,4 +1,5 @@
-![ProgrammerCycleGIF](https://github.com/DhananjayGoyalGL/DhananjayGoyalGL/assets/113744303/69bb63b3-08fd-4d2e-b879-2c8b83697718)![WannaCodeCodeGIF](https://github.com/DhananjayGoyalGL/DhananjayGoyalGL/assets/113744303/f3bb1e77-8236-43be-82fa-935994370f56)
+![FrontEndDeveloperBeauCarnesGIF](https://github.com/DhananjayGoyalGL/DhananjayGoyalGL/assets/113744303/29a252f7-b5ac-40e2-81da-c53e1214483e)
+![CodeCodingGIF](https://github.com/DhananjayGoyalGL/DhananjayGoyalGL/assets/113744303/2955c814-1c50-41ba-bfd8-f0bc9f793755)
 
 
 
