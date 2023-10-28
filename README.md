@@ -1,7 +1,3 @@
-![Uploading CoreKeeperCoreGIF.gif…]()
-
-
-
 - 🌟 Advanced Certification in Full Stack Development via [Great Learning - IITR](https://eportfolio.mygreatlearning.com/dhananjay-goyal)
 - 🚀 Former Full Stack Intern @ Linsible Technologies, Codsoft.
 - 📸 Sharing my development journey on [LinkedIn](https://www.linkedin.com/in/dhananjaygoyal/)
