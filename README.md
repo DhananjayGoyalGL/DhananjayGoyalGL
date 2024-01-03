@@ -2,7 +2,7 @@
 - 🚀 Former Full Stack Intern @ Linsible Technologies, Codsoft.
 - 📸 Sharing my development journey on [LinkedIn](https://www.linkedin.com/in/dhananjaygoyal/)
 - Upskilling at coding bootcamps like Delta & Alpha for DSA and development via Apna College.
-- Some of my projects - [Portfolio](https://aquamarine-hotteok-af3024.netlify.app/).
+- Some of my projects - [Portfolio ](https://aquamarine-hotteok-af3024.netlify.app/).
   
     - **```Good at : REACT | JAVASCRIPT | HTML | CSS | EXPRESS | DATABASE | NODE | JAVA```**
       
