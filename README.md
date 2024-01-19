@@ -1,5 +1,5 @@
 I have been enjoying web development for the first time ever since I built my first React project.
-The library makes me want to learn JavaScript more. I'm currently on the look for a role in frontend web development, ideally writing React or JavaScript. I'd especially love to work at a startup on a tight knit where I can make an impact. If you are hiring, [let's chat](https://www.linkedin.com/in/dhananjaygoyal/).
+The library makes me want to learn JavaScript more. I'm currently on the lookout for a role in frontend web development, ideally writing React or JavaScript. I'd especially love to work at a startup on a tight knit where I can make an impact. If you are hiring, [let's chat](https://www.linkedin.com/in/dhananjaygoyal/).
 
 - 🌟 I've done Advanced Certification in Full Stack Development via [Great Learning - IITR](https://eportfolio.mygreatlearning.com/dhananjay-goyal)
 - 🚀 Former Full Stack Intern @ Linsible Technologies.
