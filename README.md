@@ -1,6 +1,6 @@
-- 🌟 Advanced Certification in Full Stack Development via [Great Learning - IITR](https://eportfolio.mygreatlearning.com/dhananjay-goyal)
-- 🚀 Former Full Stack Intern @ Linsible Technologies, Codsoft
-- 📸 Sharing my development journey on [LinkedIn](https://www.linkedin.com/in/dhananjaygoyal/)
+- 🌟 I've done Advanced Certification in Full Stack Development via [Great Learning - IITR](https://eportfolio.mygreatlearning.com/dhananjay-goyal)
+- 🚀 Former Full Stack Intern @ Linsible Technologies.
+- 📸 I am sharing my development journey on [LinkedIn](https://www.linkedin.com/in/dhananjaygoyal/) (Let's connect)
 - Upskilling at coding bootcamps like Delta & Alpha for DSA and development via Apna College.
 - Some of my projects - [Portfolio](https://aquamarine-hotteok-af3024.netlify.app/).
   
